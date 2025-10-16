@@ -13,7 +13,7 @@ Me apasiona usar los datos para descubrir patrones, resolver problemas de negoci
 - 🧩 Experiencia previa en QA y mejora de procesos bajo marcos ágiles (Scrum / Kanban)
 - 🌱 Actualmente aprendiendo sobre *Deep Learning y NLP*.
 - 💬 Me interesa colaborar en proyectos de Ciencia de Datos, IA y Analítica Empresarial.
-- 📫 Cómo contactarme: [LinkedIn](www.linkedin.com/in/jenifer-paola-gonzalez-peñuela) | 
+- 📫 Cómo contactarme: [LinkedIn]([www.linkedin.com/in/jenifer-paola-gonzalez-peñuela](https://www.linkedin.com/in/jenifer-paola-gonzalez-pe%C3%B1uela/)) | 
 
 ---
 
