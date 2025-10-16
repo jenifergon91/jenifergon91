@@ -31,11 +31,6 @@ Me apasiona usar los datos para descubrir patrones, resolver problemas de negoci
 🔹 **[Análisis de Clientes – Retail](#)**  
 > Limpieza, análisis exploratorio y visualización de datos de comportamiento de clientes.
 
----
-
-### 🧩 Estadísticas de GitHub
-![Jenifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenifergonzalez&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenifergonzalez&layout=compact&theme=dracula)
 
 ---
 
