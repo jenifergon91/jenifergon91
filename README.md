@@ -28,7 +28,7 @@ Me apasiona usar los datos para descubrir patrones, resolver problemas de negoci
 🔹 **Predicción de Recuperación de Oro**  
 > Desarrollo de un modelo predictivo para estimar la cantidad de oro extraído del mineral. Incluye análisis exploratorio, ingeniería de características y evaluación de desempeño.
 
-🔹 **Análisis de Clientes – Retail**  
+🔹 **Análisis de Datos de Vehículos - Aplicación Web**  
 > Limpieza, análisis exploratorio y visualización de datos de comportamiento de clientes.
 
 
